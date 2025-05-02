@@ -1,6 +1,6 @@
 """
 File: PotholeFilling.py
-Name: Yi_Han:
+Name: Yi_Han
 --------------------------
 This program shows karel filling 3
 potholes. Students learn the concept of

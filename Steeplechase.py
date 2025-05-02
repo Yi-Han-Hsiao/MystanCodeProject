@@ -1,6 +1,6 @@
 """
 File: Steeplechase.py
-Name: Yi-Han:
+Name: Yi-Han
 ---------------------------------
 TODO:
 """
